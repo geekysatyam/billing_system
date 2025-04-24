@@ -1,0 +1,16 @@
+	Welcome Grocery Retail
+Bill Number:5183
+Customer Name:Satyam
+Phone Number8847514424
+================================
+Products		QTY		Price
+ Sanitizer		12		120
+ Mask		10		50
+ Hand Gloves		1		12
+ Syrup		4		120
+ Maggi		10		50
+ Medical Tax			Rs. 15.1
+ Grocery Tax			Rs. 250.0
+ Cold Drinks Tax			Rs. 0.0
+ Total Bil:			 Rs.617.1
+--------------------------------
